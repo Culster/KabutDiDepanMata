@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 1380: style property image is not known.
+    image nvlwindowframe = Frame("gui/nvlwindow.png")
+         ^
+
+Ren'Py Version: Ren'Py 8.3.6.25022803
+Wed Mar 26 15:37:32 2025
